@@ -4,9 +4,8 @@
 ### Backend Developer | Desktop, Web, Mobile and UI/UX Design, Video Edit
 </div>
 
-
 <br>
-
+<br>
 
 <div align="center">
 
@@ -19,9 +18,10 @@
 [<img height="30" width="30" src="https://cdn.discordapp.com/emojis/895117089638060052.png?size=96" title="Linktree" />][linktree]
 [<img height="30" width="30" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Developer Page" />][googleplay]
 </div>
-
-
-<br>
+<div align="center">
+ 
+  ### Contact: onat.somer2018@gmail.com 
+</div>
 
 
 <div align="center">
@@ -38,7 +38,10 @@
 </div>
 
 
+
 <br>
+<br>
+
 
 
 <div align="center">
@@ -47,8 +50,9 @@
 
 ![](https://komarev.com/ghpvc/?username=OnatSoft&color=blue)
 
-<br>
-<img src=https://github-readme-stats.vercel.app/api?username=OnatSoft&show_icons=true&theme=merko&title_color=49FF00&text_color=FFE227&icon_color=F8F8F8&bg_color=516fbc&locale=en&hide_border=true&include_all_commits=true>
+  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=OnatSoft&show_icons=true&theme=merko&title_color=49FF00&text_color=FFE227&icon_color=F8F8F8&bg_color=516fbc&locale=en&hide_border=true&include_all_commits=true">
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&layout=compact&langs_count=10&theme=merko&locale=en&hide_border=true&bg_color=516fbc&title_color=49ff00&card_width=445&text_color=FFE227">
