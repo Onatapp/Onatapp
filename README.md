@@ -1,6 +1,6 @@
 <div align="center">
 
-## :wave: Hi there, I'm Onat. Welcome to the my Github Profile
+## :wave: Hi there, I'm Onat. Welcome to my Github Profile
 ### Backend Developer | Desktop, Web, Mobile and UI/UX Design, Video Edit
 </div>
 
