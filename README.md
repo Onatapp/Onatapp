@@ -10,7 +10,7 @@
 <div align="center">
  
   ### Contact: onat.somer2018@gmail.com
-  ### My Personal Website: [osomerr.cf](https://osomerr.cf)
+  ### My Personal Website: [www.onatsomer.com](https://onatsomer.com)
 </div>
 
 <div align="center">
