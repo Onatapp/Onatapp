@@ -8,7 +8,7 @@
 <div align="center">
  
   ### Contact: <a href="mailto:onat.somer2018@gmail.com">onat.somer2018@gmail.com</a>
-  ### My Personal Website: <a href="https://onatsomer.com" target="_blank">www.onatsomer.com</a>
+  ### My Personal Blog Website: <a href="https://onatsomer.com" target="_blank" title="UPCOMING">www.onatsomer.com</a>
 </div>
 
 <div align="center">
