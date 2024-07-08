@@ -1,16 +1,14 @@
 <div align="center">
 
 <h1> :wave: Hi there, I'm Onat. Welcome to my Github Profile </h1>
- <h3>Backend Developer | Desktop, Mobile and UI/UX Design, Video Edit</h3>
+ <h3>Backend Developer | Desktop, Mobile, Web and UI Design, Video Edit</h3>
 <hr>
 </div>
 
-<br>
-
 <div align="center">
  
-  ### Contact: onat.somer2018@gmail.com
-  ### My Personal Website: [www.onatsomer.com](https://onatsomer.com)
+  ### Contact: <a href="mailto:onat.somer2018@gmail.com">onat.somer2018@gmail.com</a>
+  ### My Personal Website: <a href="https://onatsomer.com" target="_blank">www.onatsomer.com</a>
 </div>
 
 <div align="center">
