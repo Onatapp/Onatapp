@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> :wave: Hi there, I'm Onat. Welcome to my Github Profile </h1>
+<h1> :wave: Hello. </h1>
  <h3>Backend Developer | Desktop, Mobile, Web and UI Design, Video Edit</h3>
 <hr>
 </div>
