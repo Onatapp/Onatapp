@@ -7,8 +7,8 @@
 
 <div align="center">
  
-  ### Contact: <a href="mailto:onat.somer2018@gmail.com">onat.somer2018@gmail.com</a>
-  ### My Personal Blog Website: <a href="https://onatsomer.com" target="_blank" title="UPCOMING">www.onatsomer.com</a>
+  ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a>
+  ### My Personal Blog Website: (Soon...) <a href="https://onatsomer.com" target="_blank">www.onatsomer.com</a>
 </div>
 
 <div align="center">
@@ -62,6 +62,5 @@
 [instagram]:https://www.instagram.com/onat2016
 [instagram2]:https://www.instagram.com/appdev_support
 [linkedn]:https://www.linkedin.com/in/onatsoft
-[facebook]:https://www.facebook.com/onat2016
-[linktree]:https://linktr.ee/onatt2645
+[linktree]:https://bento.me/onatsomer
 [googleplay]:https://play.google.com/store/apps/dev?id=8102833443910864978
