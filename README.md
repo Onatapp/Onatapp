@@ -38,8 +38,8 @@
 
 ![](https://komarev.com/ghpvc/?username=OnatSoft&color=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=OnatSoft&show_icons=true&theme=merko&title_color=FDFAFA&text_color=FDFAFA&icon_color=FDFAFA&bg_color=324C97&locale=en&hide_border=false&card_width=450&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&layout=compact&langs_count=12&theme=merko&locale=en&hide_border=false&bg_color=324C97&title_color=FDFAFA&card_width=450&text_color=FDFAFA">
+<img src="https://github-readme-stats.vercel.app/api?username=OnatSoft&show_icons=true&theme=merko&title_color=FDFAFA&text_color=FDFAFA&icon_color=FDFAFA&bg_color=324C97&locale=en&hide_border=false&card_width=400&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&layout=compact&langs_count=12&theme=merko&locale=en&hide_border=false&bg_color=324C97&title_color=FDFAFA&card_width=350&text_color=FDFAFA">
 </div>
 
 
