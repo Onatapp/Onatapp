@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1> :wave: Hello. </h1>
- <h3>Backend Developer | Mobile, Web and UI Design</h3>
-<hr>
+# :wave: Hello
+ <h3>Jr. Backend Developer | Mobile, Web and UI Design</h3>
 </div>
 
 <div align="center">
@@ -22,7 +21,7 @@
 
 <div align="center">
 
-### I use technologies and tools
+### Technologies and tools I use
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,androidstudio,sqlite,figma,firebase,visualstudio,git)](https://skillicons.dev)
 <img src="https://i.hizliresim.com/5leaw4o.png" width="35" height="43" title="MSSQL SERVER">
 </div>
@@ -34,12 +33,12 @@
 <div align="center">
 
 <hr>
-<h2>Statistics</h2>
 
+## Statistics
 ![](https://komarev.com/ghpvc/?username=OnatSoft&color=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=OnatSoft&show_icons=true&theme=merko&title_color=FDFAFA&text_color=FDFAFA&icon_color=FDFAFA&bg_color=324C97&locale=en&hide_border=false&card_width=400&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&layout=compact&langs_count=12&theme=merko&locale=en&hide_border=false&bg_color=324C97&title_color=FDFAFA&card_width=350&text_color=FDFAFA">
+![](https://github-readme-stats.vercel.app/api?username=OnatSoft&count_private=true&show_icons=true&theme=highcontrast&locale=en&cache_seconds=14400&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&langs_count=6&layout=donut&theme=highcontrast)
 </div>
 
 
