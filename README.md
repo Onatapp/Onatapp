@@ -34,8 +34,8 @@
 
 <hr>
 
-## Statistics
-![](https://komarev.com/ghpvc/?username=OnatSoft&color=blue)
+## GitHub Stats
+[![](https://visitcount.itsvg.in/api?id=OnatSoft&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api?username=OnatSoft&count_private=true&show_icons=true&theme=highcontrast&locale=en&cache_seconds=14400&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&langs_count=6&layout=donut&theme=highcontrast)
