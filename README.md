@@ -23,7 +23,6 @@
 
 ### Technologies and tools I use
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,androidstudio,sqlite,figma,firebase,visualstudio,git)](https://skillicons.dev)
-<img src="https://i.hizliresim.com/5leaw4o.png" width="35" height="43" title="MSSQL SERVER">
 </div>
 
 
