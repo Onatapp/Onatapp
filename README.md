@@ -1,7 +1,7 @@
 <div align="center">
 
 # :wave: Hello
- <h3>Jr. Backend Developer | Mobile, Web and UI Design</h3>
+ <h3>Software Developer | Mobile, Web and Video Edit, Content Creator</h3>
 </div>
 
 <div align="center">
@@ -17,13 +17,13 @@
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Personal Instagram" />][instagram]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Mobil Destek Instagram" />][instagram2]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />][linkedn]
-[<img height="40" width="40" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Apps" />][googleplay]
+<!-- [<img height="40" width="40" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Apps" />][googleplay] -->
 </div>
 
 <div align="center">
 
-### Technologies and tools I use
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,androidstudio,sqlite,figma,firebase,visualstudio,git)](https://skillicons.dev)
+### I use technologies and tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,firebase,androidstudio,sqlite,figma,dotnet,visualstudio,git)](https://skillicons.dev)
 </div>
 
 
