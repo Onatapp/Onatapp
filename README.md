@@ -13,7 +13,7 @@
 <div align="center">
  
 ### You Can Follow Me
-[<img height="40" width="40" src="https://skillicons.dev/icons?i=twitter" title="Twitter / X" />][twitter]
+[<img height="40" width="40" src="https://skillicons.dev/icons?i=twitter" title="Mobil Destek Twitter / X" />][twitter]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Personal Instagram" />][instagram]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Mobil Destek Instagram" />][instagram2]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />][linkedn]
@@ -35,7 +35,7 @@
 <hr>
 
 ## GitHub Stats
-[![](https://visitcount.itsvg.in/api?id=OnatSoft&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=onatsoft&color=blue&style=flat&label=Profile+Views)
 
 ![](https://github-readme-stats.vercel.app/api?username=OnatSoft&count_private=true&show_icons=true&theme=highcontrast&locale=en&cache_seconds=14400&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&langs_count=6&layout=donut&theme=highcontrast)
@@ -49,9 +49,8 @@
 
 
 
-[twitter]:https://www.twitter.com/onatsoft
-[instagram]:https://www.instagram.com/onatsoft
+[twitter]:https://www.twitter.com/appdev_support
+[instagram]:https://www.instagram.com/onat.soft
 [instagram2]:https://www.instagram.com/appdev_support
 [linkedn]:https://www.linkedin.com/in/onatsoft
-[linkprofile]:https://bento.me/onatsomer
 [googleplay]:https://play.google.com/store/apps/dev?id=8102833443910864978
