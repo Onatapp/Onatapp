@@ -1,7 +1,7 @@
 <div align="center">
 
 # :wave: Hello
- <h3>Software Developer | Mobile, Web and Video Edit, Content Creator</h3>
+ <h3>Software Developer | Mobile, Web and Video Edit</h3>
 </div>
 
 <div align="center">
