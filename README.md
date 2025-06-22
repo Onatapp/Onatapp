@@ -35,10 +35,10 @@
 <hr>
 
 ## GitHub Stats
-![](https://komarev.com/ghpvc/?username=onatsoft&color=blue&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=onatapp&color=blue&style=flat&label=Profile+Views)
 
-![](https://github-readme-stats.vercel.app/api?username=OnatSoft&count_private=true&show_icons=true&theme=highcontrast&locale=en&cache_seconds=14400&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnatSoft&langs_count=6&layout=donut&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=Onatapp&count_private=true&show_icons=true&theme=highcontrast&locale=en&cache_seconds=14400&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Onatapp&langs_count=6&layout=donut&theme=highcontrast)
 </div>
 
 
@@ -50,7 +50,7 @@
 
 
 [twitter]:https://www.twitter.com/appdev_support
-[instagram]:https://www.instagram.com/onat.soft
+[instagram]:https://www.instagram.com/onat.app
 [instagram2]:https://www.instagram.com/appdev_support
 [linkedn]:https://www.linkedin.com/in/onatsoft
 [googleplay]:https://play.google.com/store/apps/dev?id=8102833443910864978
