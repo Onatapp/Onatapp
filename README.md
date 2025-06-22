@@ -1,13 +1,12 @@
 <div align="center">
 
 # :wave: Hi, I'm Onat
- <h3>Software Developer | Mobile, Web and Video Edit</h3>
+ <h3>Jr. Mobile - Web Developer and Video Edit</h3>
 </div>
 
 <div align="center">
  
   ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a>
-  ### My Personal Website: (Soon...) <a href="https://onatsomer.com" target="_blank">www.onatsomer.com</a>
 </div>
 
 <div align="center">
@@ -52,5 +51,5 @@
 [twitter]:https://www.twitter.com/appdev_support
 [instagram]:https://www.instagram.com/onat.app
 [instagram2]:https://www.instagram.com/appdev_support
-[linkedn]:https://www.linkedin.com/in/onatsoft
+[linkedn]:https://www.linkedin.com/in/onatapp
 [googleplay]:https://play.google.com/store/apps/dev?id=8102833443910864978
