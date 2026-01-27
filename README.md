@@ -1,16 +1,16 @@
-<div align="center">
+<div align="left">
 
 # :wave: Hi, I'm Onat
  <h3>Jr. Android & Full-Stack Web Developer</h3>
 </div>
-<div align="center">
+<div align="left">
  
   ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a> or <a href="https://linktr.ee/onatt2645" target="_blank">https://linktr.ee/onatt2645</a>
 </div>
 
-<div align="center">
+<div align="left">
  
-### You Can Follow Me
+### You Can Follow Me:
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=twitter" title="Mobil Destek Twitter / X" />][twitter]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Personal Instagram" />][instagram]
 [<img height="40" width="40" src="https://skillicons.dev/icons?i=instagram" title="Mobil Destek Instagram" />][instagram2]
@@ -18,19 +18,15 @@
 <!-- [<img height="40" width="40" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Apps" />][googleplay] -->
 </div>
 
-<div align="center">
+<div align="left">
 
-### I use technologies and tools
+### I use technologies and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,firebase,androidstudio,sqlite,figma,dotnet,visualstudio,git)](https://skillicons.dev)
 </div>
 
-
 <br>
 
-
-<div align="center">
-
-<hr>
+<div align="left">
 
 ## GitHub Stats
 ![](https://komarev.com/ghpvc/?username=onatapp&color=blue&style=flat&label=Profile+Views)
