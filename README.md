@@ -1,12 +1,11 @@
 <div align="center">
 
 # :wave: Hi, I'm Onat
- <h3>Jr. Mobile - Web Developer and Video Edit</h3>
+ <h3>Jr. Android & Full-Stack Web Developer</h3>
 </div>
-
 <div align="center">
  
-  ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a>
+  ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a> or <a href="https://linktr.ee/onatt2645" target="_blank">https://linktr.ee/onatt2645</a>
 </div>
 
 <div align="center">
