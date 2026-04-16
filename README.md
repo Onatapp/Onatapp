@@ -1,7 +1,7 @@
 <div align="left">
 
 # :wave: Hi, I'm Onat
- <h3>Jr. Android & Full-Stack Web Developer</h3>
+ <h3>Jr. Android & .NET Developer | Jr. App Store Optimization (ASO) Specialist</h3>
 </div>
 <div align="left">
  
@@ -20,7 +20,7 @@
 
 <div align="left">
 
-### I use technologies and tools:
+### I'm using the technologies & tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,java,firebase,androidstudio,sqlite,figma,dotnet,visualstudio,git)](https://skillicons.dev)
 </div>
 
