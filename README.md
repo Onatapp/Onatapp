@@ -1,11 +1,11 @@
 <div align="left">
 
-# :wave: Hi, I'm Onat
- <h3>Jr. Android & .NET Developer | Jr. App Store Optimization (ASO) Specialist</h3>
+<h1> :wave: Hi, I'm Onat </h1>
+<h4> I'm Jr. Android (Java) - .NET MVC/Core Developer & Jr. App Store Optimization (ASO) Specialist </h3>
 </div>
 <div align="left">
  
-  ### Contact: <a href="mailto:onatsoft22@gmail.com">onatsoft22@gmail.com</a> or <a href="https://linktr.ee/onatt2645" target="_blank">https://linktr.ee/onatt2645</a>
+Contact: <a href="mailto:dev.onatsmr@gmail.com">dev.onatsmr@gmail.com</a> or <a href="https://linktr.ee/onatt2645" target="_blank">https://linktr.ee/onatt2645</a>
 </div>
 
 <div align="left">
