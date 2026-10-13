@@ -1,7 +1,7 @@
 <div align="left">
 
 <h1> :wave: Hi, I'm Onat </h1>
-<h4> I'm Jr. Android (Java) - .NET MVC/Core Developer & Jr. App Store Optimization (ASO) Specialist </h3>
+<h3> I'm Jr. Android (Java) & .NET MVC/Core Developer | Jr. App Store Optimization (ASO) Specialist </h3>
 </div>
 <div align="left">
  
@@ -46,5 +46,5 @@ Contact: <a href="mailto:dev.onatsmr@gmail.com">dev.onatsmr@gmail.com</a> or <a 
 [twitter]:https://www.twitter.com/appdev_support
 [instagram]:https://www.instagram.com/onat.app
 [instagram2]:https://www.instagram.com/appdev_support
-[linkedn]:https://www.linkedin.com/in/onatapp
+[linkedn]:https://www.linkedin.com/in/onat-somer
 [googleplay]:https://play.google.com/store/apps/dev?id=8102833443910864978
